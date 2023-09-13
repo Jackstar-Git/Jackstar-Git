@@ -17,7 +17,7 @@ I am an intermedite level Python Developer <img src="https://github.com/devicons
 
 - :zap: In my free time, I create some random Python programs or I sometimes code simple tools for other people.
 
-- :mailbox:How to reach me: <a href="https%3A%2F%2Fdiscordapp.com%2Fusers%2F700285395589529702"><img alt="Static Badge" src="https://img.shields.io/badge/%20Discord-Jackstar-blue?logo=discord&logoColor=%235865f2&labelColor=%234640b2&color=%23656565"></a>
+- :mailbox:How to reach me: [![Discord Badge](https://img.shields.io/badge/%20Discord-Jackstar-blue?logo=discord&logoColor=%235865f2&labelColor=%234640b2&color=%23656565)](https://discordapp.com/users/700285395589529702)
 
 ---
 
