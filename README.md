@@ -1,20 +1,22 @@
 <div id="header" align="center">
   <img src="https://avatars.githubusercontent.com/u/114361791?v=4" width="100"/>
-  <img src="https://komarev.com/ghpvc/?username=Jackstar-Git&style=flat-square&color=blue" alt=""/>
-<h1>
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  <div id="badges">
+    <img src="https://komarev.com/ghpvc/?username=Jackstar-Git&style=flat-square&color=blue" alt=""/>
+  </div>
+  <h1>
+    Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
----
+
 
 ### :man_technologist: About Me :
-I am an intermedite level Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt=""/> from Autria.
+I am an intermedite level Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="15"/> from Autria.
 
 - :seedling: Currently learning JavaScript and getting better in Python.
 
 - :zap: In my free time, I create some random Python programs or I sometimes code simple tools for other people.
 
-- :mailbox:How to reach me: <img alt="Static Badge" src="https://img.shields.io/badge/%20Discord-Jackstar-blue?logo=discord&logoColor=%235865f2&labelColor=%234640b2&color=%23656565&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F700285395589529702">
+- :mailbox:How to reach me: <a href><img alt="Static Badge" src="https://img.shields.io/badge/%20Discord-Jackstar-blue?logo=discord&logoColor=%235865f2&labelColor=%234640b2&color=%23656565&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F700285395589529702">
 
 ---
 ### :hammer_and_wrench: Languages  and Tools I know :
