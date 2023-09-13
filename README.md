@@ -42,4 +42,5 @@ I am an intermedite level Python Developer <img src="https://github.com/devicons
 ---
 
 ### :bar_chart: My GitHub-Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackstar-Git)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Jackstar-Git&theme=tokyonight" width="430px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackstar-Git&layout=compact&theme=tokyonight" />
