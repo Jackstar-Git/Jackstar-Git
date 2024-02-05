@@ -11,7 +11,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am an intermedite level Python Developer <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="12"> from Autria.
+I am an intermedite level Python Developer <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="12"> from Austria.
 
 - :seedling: Currently learning JavaScript and getting better in Python.
 
