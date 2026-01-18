@@ -11,11 +11,11 @@
 ---
 
 ### :man_technologist: About Me :
-I am an hobbyist Developer who mainly uses Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="12"> from Austria.
+I am an hobbyist Developer from Austria who mainly uses Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="13"> and HTML + CSS  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="13">/<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="13">.
 
 - :seedling: I'm currently learning C++ and Python related packages and frameworks. 
 
-- :zap: In my free time, I create different projects for fun.
+- :zap: In my free time, I create different projects and packages for fun.
 
 - :mailbox:How to reach me: [![Discord Badge](https://img.shields.io/badge/%20Discord-Jackstar-blue?logo=discord&logoColor=%235865f2&labelColor=%234640b2&color=%23656565)](https://discordapp.com/users/700285395589529702)
 
