@@ -11,7 +11,7 @@
 ---
 
 ## :man_technologist: About Me :
-I am an hobbyist Developer from Austria who mainly uses Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="13"> and HTML + CSS  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="13">/<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="13">.
+I am Developer from Austria who mainly uses Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="13"> and HTML + CSS  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="13">/<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="13">.
 
 - :calendar: I tell computers what to do since `July 2021`. Sometimes they listen, mostly they don't. 🤷‍♂️
 
