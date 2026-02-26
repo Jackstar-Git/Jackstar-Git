@@ -10,7 +10,7 @@
 
 ---
 
-### :man_technologist: About Me :
+## :man_technologist: About Me :
 I am an hobbyist Developer from Austria who mainly uses Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="13"> and HTML + CSS  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="13">/<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="13">.
 
 - :calendar: I tell computers what to do since `July 2021`. Sometimes they listen, mostly they don't. 🤷‍♂️
@@ -23,26 +23,39 @@ I am an hobbyist Developer from Austria who mainly uses Python <img src="https:/
 
 ---
 
-### :hammer_and_wrench: Languages  and Tools I know :
+## :hammer_and_wrench: Languages and Tools
+
+### Languages:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
 </div>
-<br>
+
+### Tools:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="JSON" alt="JSON" width="40" height="40"/>
+</div>
+
+### Libraries/Frameworks:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-plain-wordmark.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>
 </div>
 <hr>
 
-### :thinking: Langues and Tools I want to learn (or I am learning currently):
+
+## :thinking: Langues and Tools I want to learn (or I am learning currently):
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40">
 </div>
-<br>
+<hr>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="40" height="40">
@@ -51,7 +64,7 @@ I am an hobbyist Developer from Austria who mainly uses Python <img src="https:/
 
 ---
 
-### :bar_chart: My GitHub-Stats:
+## :bar_chart: My GitHub-Stats:
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackstar-Git&layout=compact&theme=tokyonight"/>
 </div>
