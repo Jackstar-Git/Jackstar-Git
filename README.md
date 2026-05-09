@@ -11,7 +11,7 @@
 ---
 
 ## :man_technologist: About Me :
-I am Developer from Austria who mainly uses Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="13"> and HTML + CSS  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="13">/<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="13">.
+I am Developer from Austria who mainly uses Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="13"> and HTML + CSS  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="13">/<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="13"> as well as JavaScript <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="13">.
 
 - :calendar: I tell computers what to do since `July 2021`. Sometimes they listen, mostly they don't. 🤷‍♂️
 
@@ -60,11 +60,4 @@ I am Developer from Austria who mainly uses Python <img src="https://github.com/
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="40" height="40">
-</div>
-
----
-
-## :bar_chart: My GitHub-Stats:
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackstar-Git&layout=compact&theme=tokyonight"/>
 </div>
